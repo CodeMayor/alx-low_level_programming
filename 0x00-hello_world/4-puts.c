@@ -1,4 +1,13 @@
 #!/bin/bash
-#include <stdio.h>
-
-int main(void) { puts("Programming is like building a multilingual puzzle\n"); return (0); }
+#inclide <stdio.h>
+/**
+ * main : print the string in the main function
+ * description : using the main function
+ * this programm prints ""Programming is like buil   ding a multilingual puzzle"
+ * Return :0
+ */
+int main (void)
+{
+	prints("\ "Programming is like building a         multilingual puzzle");
+	return (0)
+}
