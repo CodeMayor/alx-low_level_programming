@@ -1,4 +1,3 @@
-#!/bin/bash
 #inclide <stdio.h>
 /**
  * main : print the string in the main function
