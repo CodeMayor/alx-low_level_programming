@@ -1,18 +1,21 @@
 #include "main.h"
+#include <unistd.h>
 
 /**
- * print_alphabet - check description
- * Description: it prints the alphabet in lowecase
- * Return: Nothing.
+ * print_alphabet - Entry point
+ * Return:0
  */
 
 void print_alphabet(void)
-
 {
-	char i;
+	char i = 'a';
 
-	for (i = 'a' ; i <= 'z' ; i++)
-		_putchar(i);
+	while (i <= 'z')
+	{
+		_putchar(c);
+		i++;
 
+	}
 	_putchar('\n');
+
 }
