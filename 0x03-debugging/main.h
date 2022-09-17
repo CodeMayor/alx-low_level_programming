@@ -1,4 +1,3 @@
-10 lines (8 sloc)  240 Bytes
 #ifndef MAIN_H
 #define MAIN_H
 
